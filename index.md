@@ -1,4 +1,5 @@
-<h1 type="hidden">---
+<h1 type="hidden">
+  ---
 layout: default
 ---
 
